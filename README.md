@@ -20,7 +20,7 @@ git clone https://github.com/HarshMishra2002/ipl-win-predictor.git
 Installation 
 
 ```
-npm install streamlit
+pip install streamlit
 ```
 ---
 Usage
